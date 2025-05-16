@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Λbstract
 // @namespace       https://www.wolvesville.com/
-// @version         1.5.3
+// @version         1.5.4
 // @description     Plays automatically.
 // @author          OnyXed
 // @license         MIT
